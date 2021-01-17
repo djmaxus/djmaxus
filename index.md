@@ -1,9 +1,10 @@
 # Maksim Elizarev
-[**Максим Елизарьев**](https://github.com/djmaxus)
+**Максим Елизарьев**
 
 ![myself](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wvRK6oQAAAAJ&citpid=2&authuser=1)
 
 ## Profile Links
+* [GitHub](https://github.com/djmaxus)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=wvRK6oQAAAAJ)
 * [arXiv](http://arxiv.org/a/elizarev_m_1)
 * [ResearchGate](https://www.researchgate.net/profile/Maksim_Elizarev)
