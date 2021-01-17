@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
+title: dj.maxus
 logo: /Logo-CAT.png
+description: PhD student
+google_analytics:
+theme: jekyll-theme-minimal
+
