@@ -1,5 +1,5 @@
 # Maksim Elizarev
-**Максим Елизарьев**
+[**Максим Елизарьев**](https://github.com/djmaxus)
 
 ![myself](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wvRK6oQAAAAJ&citpid=2&authuser=1)
 
