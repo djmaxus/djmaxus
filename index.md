@@ -1,4 +1,5 @@
-# Maksim Elizarev | Максим Елизарьев
+# Maksim Elizarev
+**Максим Елизарьев**
 
 ![myself](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wvRK6oQAAAAJ&citpid=2&authuser=1)
 
