@@ -3,9 +3,10 @@
 ![myself](https://github.com/djmaxus/djmaxus/raw/gh-pages/SciPageGitHub.jpeg)
 
 ## Profile Links
-| GitHub | Google Scholar  | arXiv | ResearchGate |
-|:-:|:-:|:-:|:-:|
-| [![logo-github]][page-github] | [![logo-scholar]][page-scholar] | [![logo-arxiv]][page-arxiv] | [![logo-rg]][page-rg] |
+* [GitHub][page-github]
+* [Google Scholar][page-scholar]
+* [arXiv][page-arxiv]
+* [ResearchGate][page-rg]
 
 [page-github]: https://github.com/djmaxus
 [logo-github]: https://image.flaticon.com/icons/png/512/25/25231.png
@@ -18,3 +19,5 @@
 
 [page-rg]: https://www.researchgate.net/profile/Maksim_Elizarev
 [logo-rg]: https://user-images.githubusercontent.com/511683/28757557-f82cff1a-7585-11e7-9317-072a838dcca3.png
+
+[icon-bullet]: https://www.freeiconspng.com/img/25151
