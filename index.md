@@ -5,7 +5,7 @@
 ## Profile Links
 | GitHub | Google Scholar  | arXiv | ResearchGate |
 |:-:|:-:|:-:|:-:|
-[![logo-github]][page-github] | [![logo-scholar]][page-scholar] | [![logo-arxiv]][page-arxiv] | [![logo-rg]][page-rg]
+| [![logo-github]][page-github] | [![logo-scholar]][page-scholar] | [![logo-arxiv]][page-arxiv] | [![logo-rg]][page-rg] |
 
 [page-github]: https://github.com/djmaxus
 [logo-github]: https://image.flaticon.com/icons/png/512/25/25231.png
