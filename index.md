@@ -1,6 +1,6 @@
 # Maksim Elizarev | Максим Елизарьев
 
-![myself](https://github.com/djmaxus/djmaxus/raw/master/SciPageGitHub.jpeg)
+![myself](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=wvRK6oQAAAAJ&citpid=4&authuser=1)
 
 ## Profile Links
 * [GitHub](https://github.com/djmaxus)
