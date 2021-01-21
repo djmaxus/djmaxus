@@ -3,7 +3,7 @@
 **Maksim Elizarev** | **Максим Елизарьев**\
 My [GitHub Pages](https://djmaxus.github.io/djmaxus/)
 
-![myself](https://github.com/djmaxus/djmaxus/blob/master/SciPage54.jpg)
+![myself](https://github.com/djmaxus/djmaxus/blob/master/SciPageGitHub.jpg)
 
 ## Profile Links
 * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=wvRK6oQAAAAJ)
