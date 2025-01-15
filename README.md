@@ -1,5 +1,7 @@
 [djmaxus.github.io](https://djmaxus.github.io/)
 
+<img src="./bmc_qr.png" width="200"/>
+
 <!--
 **djmaxus/djmaxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
